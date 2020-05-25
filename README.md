@@ -7,3 +7,5 @@ Visualization of cases in every Federal State of Germany.
 Geojson data from <a href="https://github.com/isellsoap/deutschlandGeoJSON">here</a>.
 
 Libraries used pandas, matplotlib, folium
+
+![](cases_per_federal_state_choropleth_v2.png)
